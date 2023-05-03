@@ -1,7 +1,6 @@
 👋 Hi, I’m @etashhh
 
-I'm a Web3 engineer, specializing in Solidity, Python, and Rust. I am the co-founder of [Silika Studio](https://www.silika.studio), 
-a Web3 development studio. You can also find me on Twitter at [@0xetash](https://twitter.com/0xetash). 
+I'm a Web3 engineer, specializing in Solidity, Python, and Rust. You can find me on Twitter at [@0xetash](https://twitter.com/0xetash). 
 
 Let's connect!
 

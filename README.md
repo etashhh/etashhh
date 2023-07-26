@@ -1,6 +1,6 @@
 👋 Hi, I’m @etashhh
 
-I'm a Web3 engineer, specializing primarily in backend development. I work in Python, TypeScript, Rust, and Solidity. You can find me on Twitter at [@0xetash](https://twitter.com/0xetash).
+I'm a software engineer, specializing primarily in backend development and data engineering. I work in Python, TypeScript, Rust, and Solidity. You can find me on Twitter at [@etashxyz](https://twitter.com/etashxyz).
 
 Let's connect!
 
